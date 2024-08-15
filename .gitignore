@@ -1,0 +1,5 @@
+.DS_Store
+node_modules
+build
+# Add a .gitignore file to leave the node_modules out of your commits
+echo "node_modules" > .gitignore 
